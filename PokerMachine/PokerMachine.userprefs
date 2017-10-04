@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\spinnerManager.cs" Line="15" Column="8" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="115" Column="37" />
+      <File FileName="Assets\Scripts\reel.cs" Line="15" Column="40" />
+      <File FileName="Assets\Scripts\spinner.cs" Line="15" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
